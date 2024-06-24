@@ -1,0 +1,11 @@
+Model Information:
+* title:	황세웅
+* source:	https://sketchfab.com/3d-models/a4354c1cc08a45ebbbda4274ec3c3996
+* author:	HUMANITY ARCHIVER (https://sketchfab.com/Humanityarchiver)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "황세웅" (https://sketchfab.com/3d-models/a4354c1cc08a45ebbbda4274ec3c3996) by HUMANITY ARCHIVER (https://sketchfab.com/Humanityarchiver) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
